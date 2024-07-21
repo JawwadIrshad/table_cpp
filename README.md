@@ -1,1 +1,1 @@
-# table_cpp
+# enter the number to print the table of a number
